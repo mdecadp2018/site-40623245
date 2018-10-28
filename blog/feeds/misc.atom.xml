@@ -3,7 +3,9 @@
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
-&lt;p&gt;上課內容所學:&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 4</title><link href="https://mdecapd.github.io/site-40623245/blog/2018-Fall-Project-Blog3.html" rel="alternate"></link><published>2018-10-01T11:00:00+08:00</published><updated>2018-10-01T11:00:00+08:00</updated><author><name>40623245</name></author><id>tag:mdecapd.github.io,2018-10-01:/site-40623245/blog/2018-Fall-Project-Blog3.html</id><summary type="html">&lt;p&gt;上課內容所學:&lt;/p&gt;
+&lt;p&gt;上課內容所學:&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 4</title><link href="https://mdecapd.github.io/site-40623245/blog/2018-Fall-Project-Blog3.html" rel="alternate"></link><published>2018-10-01T11:00:00+08:00</published><updated>2018-10-01T11:00:00+08:00</updated><author><name>40623245</name></author><id>tag:mdecapd.github.io,2018-10-01:/site-40623245/blog/2018-Fall-Project-Blog3.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;上課內容所學:&lt;/p&gt;
 &lt;p&gt;1.在我們開始在Onshape進行設計之前，我們需要創建一個帳戶並登錄。&lt;/p&gt;
 &lt;p&gt;2.與大多數CAD軟件不同，您無需下載或安裝任何內容即可使用Onshape 
 在頁面上 右上角有個分享鍵 因為Onshpae可以與人共享並可同時處理文檔&lt;/p&gt;
@@ -24,40 +26,15 @@ Curriculum 課程                                   platform 平台
 instructor 講師                                      technical 技術
 Assessment 評定                                 Instructors 教師
 modify 修改                                            deliver 交付
-mobile 移動&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;上課內容所學:&lt;/p&gt;
-&lt;p&gt;1.在我們開始在Onshape進行設計之前，我們需要創建一個帳戶並登錄。&lt;/p&gt;
-&lt;p&gt;2.與大多數CAD軟件不同，您無需下載或安裝任何內容即可使用Onshape 
-在頁面上 右上角有個分享鍵 因為Onshpae可以與人共享並可同時處理文檔&lt;/p&gt;
-&lt;p&gt;3.在頁面上有5個選項: 特徵列表、 零件清單、 選項卡、 圖形區域 、View cube&lt;/p&gt;
-&lt;p&gt;4.Onshape上有個功能 將鼠標停在ViewCube 點擊正面就會讓立方體轉到正面 依此類推 也可以放大和縮小還有左右平移&lt;/p&gt;
-&lt;p&gt;5.為了更好地理解基於草圖的建模的概念，讓我們先打開一個文檔。
-轉到"College - Sketch-Based Modeling" ，然後單擊頂部的“Make a private copy”。
-選擇"私人"，然後單擊對話框中的確定。&lt;/p&gt;
-&lt;p&gt;6.藍色框中最右邊的四個圖標代表Extrude，Revolve，Sweep和Loft。 這些被稱為4個基本特徵&lt;/p&gt;
-&lt;p&gt;7.拉伸功能 能讓一個面 變成體 可以直接打想要的數值上去&lt;/p&gt;
-&lt;p&gt;8.將鼠標停留在你想要知道的功能上約2秒 就可以顯示此功能的文字&lt;/p&gt;
-&lt;p&gt;Lesson1 單字:   navigating 導航    documents 文件
-account settings 帳號設定              subscription plans 訂閱計畫
-Cylinder shell 氣缸殼                         visualization 可視化
-sketches 素描                                         Existing public models 現有的公共模型
-search and copy to workspace 搜索並複製到工作區
-Curriculum 課程                                   platform 平台
-instructor 講師                                      technical 技術
-Assessment 評定                                 Instructors 教師
-modify 修改                                            deliver 交付
-mobile 移動&lt;/p&gt;
-</content><category term="2018Fall"></category></entry><entry><title>Week 2</title><link href="https://mdecapd.github.io/site-40623245/blog/2018-Fall-Project-Blog2.html" rel="alternate"></link><published>2018-09-17T11:00:00+08:00</published><updated>2018-09-17T11:00:00+08:00</updated><author><name>40623245</name></author><id>tag:mdecapd.github.io,2018-09-17:/site-40623245/blog/2018-Fall-Project-Blog2.html</id><summary type="html">&lt;p&gt;上課內容所學:&lt;/p&gt;
+mobile 移動&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 2</title><link href="https://mdecapd.github.io/site-40623245/blog/2018-Fall-Project-Blog2.html" rel="alternate"></link><published>2018-09-17T11:00:00+08:00</published><updated>2018-09-17T11:00:00+08:00</updated><author><name>40623245</name></author><id>tag:mdecapd.github.io,2018-09-17:/site-40623245/blog/2018-Fall-Project-Blog2.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;上課內容所學:&lt;/p&gt;
 &lt;p&gt;1..進到mde.tw &amp;gt; i &amp;gt;week2&amp;gt;領取個人倉儲 (在mdecadp2018下的site-40623245)&lt;/p&gt;
 &lt;p&gt;2.在site-40623245的 settings &amp;gt; Branches &amp;gt; 將branches改為gh-pages&lt;/p&gt;
 &lt;p&gt;3.開始試著練習OnShape&lt;/p&gt;
-&lt;p&gt;4.學習如何維護網誌和投影片&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;上課內容所學:&lt;/p&gt;
-&lt;p&gt;1..進到mde.tw &amp;gt; i &amp;gt;week2&amp;gt;領取個人倉儲 (在mdecadp2018下的site-40623245)&lt;/p&gt;
-&lt;p&gt;2.在site-40623245的 settings &amp;gt; Branches &amp;gt; 將branches改為gh-pages&lt;/p&gt;
-&lt;p&gt;3.開始試著練習OnShape&lt;/p&gt;
-&lt;p&gt;4.學習如何維護網誌和投影片&lt;/p&gt;
-</content><category term="2018Fall"></category></entry><entry><title>Week 1</title><link href="https://mdecapd.github.io/site-40623245/blog/2018-Fall-Project-Blog1.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>40623245</name></author><id>tag:mdecapd.github.io,2018-09-10:/site-40623245/blog/2018-Fall-Project-Blog1.html</id><summary type="html">&lt;p&gt;上課內容所學:&lt;/p&gt;
+&lt;p&gt;4.學習如何維護網誌和投影片&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 1</title><link href="https://mdecapd.github.io/site-40623245/blog/2018-Fall-Project-Blog1.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>40623245</name></author><id>tag:mdecapd.github.io,2018-09-10:/site-40623245/blog/2018-Fall-Project-Blog1.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;上課內容所學:&lt;/p&gt;
 &lt;p&gt;1.帶筆記本，耳機，隨身碟&lt;/p&gt;
 &lt;p&gt;2.在github帳號下，新增一個New repository，名為 : 學號.github.io&lt;/p&gt;
 &lt;p&gt;3.將自己新增的倉儲與老師的倉儲 clone 下來&lt;/p&gt;
@@ -65,19 +42,7 @@ mobile 移動&lt;/p&gt;
 &lt;p&gt;5.綁定帳號&lt;/p&gt;
 &lt;p&gt;6.用 git status 查看所有檔案目前的狀況，之後再  git add . &amp;gt; git commit -m "initial add " &amp;gt;git push ，將剛剛新增的檔案推上去&lt;/p&gt;
 &lt;p&gt;7.開啟 python wsgi.py ，進入近端，更改標題名稱&lt;/p&gt;
-&lt;p&gt;8.重複git status&amp;gt; git add。&amp;gt; git commit -m“在標題上添加名稱”&amp;gt; git push後完成　　　&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;上課內容所學:&lt;/p&gt;
-&lt;p&gt;1.帶筆記本，耳機，隨身碟&lt;/p&gt;
-&lt;p&gt;2.在github帳號下，新增一個New repository，名為 : 學號.github.io&lt;/p&gt;
-&lt;p&gt;3.將自己新增的倉儲與老師的倉儲 clone 下來&lt;/p&gt;
-&lt;p&gt;4.將老師的資料複製，除了 .git 和 README.me  全部貼入自己的資料夾&lt;/p&gt;
-&lt;p&gt;5.綁定帳號&lt;/p&gt;
-&lt;p&gt;6.用 git status 查看所有檔案目前的狀況，之後再  git add . &amp;gt; git commit -m "initial add " &amp;gt;git push ，將剛剛新增的檔案推上去&lt;/p&gt;
-&lt;p&gt;7.開啟 python wsgi.py ，進入近端，更改標題名稱&lt;/p&gt;
-&lt;p&gt;8.重複git status&amp;gt; git add。&amp;gt; git commit -m“在標題上添加名稱”&amp;gt; git push後完成　　　&lt;/p&gt;
-
-
-&lt;h2&gt;課程倉儲&lt;/h2&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecapd.github.io/site-40623245/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-07-18T11:00:00+08:00</published><updated>2018-07-18T11:00:00+08:00</updated><author><name>mde</name></author><id>tag:mdecapd.github.io,2018-07-18:/site-40623245/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+&lt;p&gt;8.重複git status&amp;gt; git add。&amp;gt; git commit -m“在標題上添加名稱”&amp;gt; git push後完成　　　&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecapd.github.io/site-40623245/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-07-18T11:00:00+08:00</published><updated>2018-07-18T11:00:00+08:00</updated><author><name>mde</name></author><id>tag:mdecapd.github.io,2018-07-18:/site-40623245/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
