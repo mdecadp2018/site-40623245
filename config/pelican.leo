@@ -68,18 +68,35 @@
 <v t="leo.20170710022054.1"><vh>可以另建節點存放 markdown 目錄下的 md 檔案</vh></v>
 <v t="leo.20170710022041.1" a="E"><vh>@path markdown</vh>
 <v t="leo.20180115115910.1" a="E"><vh>2018</vh>
-<v t="leo.20180423103639.1" a="E"><vh>2018 Fall CP 課程</vh>
+<v t="leo.20180423103639.1"><vh>2018 Fall CP 課程</vh>
 <v t="leo.20180423103656.1"><vh>@edit 20180718.md</vh></v>
-<v t="leo.20181008111419.1"><vh>@edit 20180910.md</vh></v>
-<v t="leo.20181008111421.1"><vh>@edit 20180917.md</vh></v>
-<v t="leo.20181008111422.1"><vh>@edit 20181001.md</vh></v>
-<v t="leo.20181008111524.1"><vh>@edit 20181008.md</vh></v>
+</v>
+<v t="leo.20181021184846.1"><vh>Week 1</vh>
+<v t="leo.20181021184846.2"><vh>@edit Week 1.md</vh></v>
+</v>
+<v t="leo.20181021184926.1"><vh>Week 2</vh>
+<v t="leo.20181021184926.2"><vh>@edit Week 2.md</vh></v>
+</v>
+<v t="leo.20181021185038.1"><vh>Week 3</vh>
+<v t="leo.20181021185038.2"><vh>@edit Week 3.md</vh></v>
+</v>
+<v t="leo.20181021185052.1"><vh>Week 4</vh>
+<v t="leo.20181021185052.2"><vh>@edit Week 4.md</vh></v>
+</v>
+<v t="leo.20181021185104.1"><vh>Week 5</vh>
+<v t="leo.20181021185104.2"><vh>@edit Week 5.md</vh></v>
+</v>
+<v t="leo.20181028235356.1" a="E"><vh>Week 6</vh>
+<v t="leo.20181028235356.2"><vh>@edit Week 6.md</vh></v>
+</v>
+<v t="leo.20181028235551.1" a="E"><vh>Week 7</vh>
+<v t="leo.20181028235551.2"><vh>@edit Week 7.md</vh></v>
 </v>
 </v>
 </v>
 <v t="yen.20170108171733.83"><vh>產生 .key 與 .crt 指令</vh></v>
-<v t="yen.20170108171930.1"><vh>@button https server</vh></v>
 </v>
+<v t="yen.20170108171930.1"><vh>@button https server</vh></v>
 <v t="yen.20170108171939.1"><vh>@button ipv6 https server</vh></v>
 </vnodes>
 <tnodes>
@@ -107,6 +124,13 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180115115910.1"></t>
 <t tx="leo.20180115142025.1"></t>
 <t tx="leo.20180423103639.1"></t>
+<t tx="leo.20181021184846.1"></t>
+<t tx="leo.20181021184926.1"></t>
+<t tx="leo.20181021185038.1"></t>
+<t tx="leo.20181021185052.1"></t>
+<t tx="leo.20181021185104.1"></t>
+<t tx="leo.20181028235356.1"></t>
+<t tx="leo.20181028235551.1"></t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
