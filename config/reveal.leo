@@ -24,17 +24,40 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
-<v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20180827201621.11" a="E"><vh>課程進度</vh>
+<v t="leo.20181104235046.1" a="E"><vh>Week1</vh>
+<v t="leo.20181104235046.2"><vh>投影片內容</vh></v>
+</v>
+<v t="leo.20181104235105.1" a="E"><vh>Week2</vh>
+<v t="leo.20181104235105.2"><vh>投影片內容</vh></v>
+</v>
+<v t="leo.20181104235103.1" a="E"><vh>Week3</vh>
+<v t="leo.20181104235103.2"><vh>投影片內容</vh></v>
+</v>
+<v t="leo.20181104235102.1" a="E"><vh>Week4</vh>
+<v t="leo.20181104235102.2"><vh>投影片內容</vh></v>
+</v>
+<v t="leo.20181104235100.1" a="E"><vh>Week5</vh>
+<v t="leo.20181104235100.2"><vh>投影片內容</vh></v>
+</v>
+<v t="leo.20181104235059.1" a="E"><vh>Week6</vh>
+<v t="leo.20181104235059.2"><vh>投影片內容</vh></v>
+</v>
+<v t="leo.20181104235057.1" a="E"><vh>Week7</vh>
+<v t="leo.20181104235057.2"><vh>投影片內容</vh></v>
+</v>
+<v t="leo.20181104234938.1" a="E"><vh>Week8</vh>
+<v t="leo.20181104234938.2"><vh>投影片內容</vh></v>
+</v>
 </v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
-<v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20180827201621.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20180827201621.16" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20180827201621.16"><vh>導入縮排程式碼</vh>
 <v t="leo.20180827201621.17"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
+<v t="leo.20180827201621.18"><vh>導入影片</vh>
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
@@ -143,16 +166,6 @@ Created by [KMOLab](http://lab.kmol.info/)
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20180827201621.12"># 投影片快捷鍵
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -170,13 +183,17 @@ Created by [KMOLab](http://lab.kmol.info/)
 Inline math equations go in like so: $\omega = d\phi / dt$. Display
 math should get its own line and be put in in double-dollarsigns:
 
-$$I = \int \rho R^{2} dV$$</t>
+$$I = \int \rho R^{2} dV$$
+
+</t>
 <t tx="leo.20180827201621.16">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20180827201621.17">## 利用 Markdown 寫投影片
 以下利用 Markdown 格式展示 Python 程式碼:
 ```
@@ -216,7 +233,9 @@ make.start()
 
 ### 導入影片 template
 
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20180827201621.2"></t>
 <t tx="leo.20180827201621.3">@language xml
 @tabwidth -4
@@ -310,6 +329,118 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20181104234938.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181104234938.2"># W8
+
+    1.回顧電腦輔助實習到目前為止的課程
+    
+    2.從創立onshape帳號&gt;&gt;畫圖&gt;&gt;github&gt;&gt;到第10週要分組
+    
+    3.有關github故障的問題與其解決辦法
+    
+    4.blog出現404錯誤, 先從cmd.exe打上pelican markdown -o blog -slocal_publishconf.py查看是甚麼錯誤導致存檔錯誤盡而去除錯,再到LEO去改正,改完推送完即完成</t>
+<t tx="leo.20181104235046.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181104235046.2"># W1
+
+說明如何建立個人的Github Pages網站
+
+    1.建立一個學號.github.io的個人倉儲(即40623245.github.io)並git clone到隨身碟裡
+    
+    2.示範如何管理CMSimfly靜態網頁、編輯簡報，如何建立網誌。
+
+</t>
+<t tx="leo.20181104235057.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181104235057.2"># W7
+
+    1.學習如何處理網誌error的問題，因為自己也有遇到這問題，所以比較清楚如何排除問題
+    
+    2.blog出現404錯誤, 先從cmd.exe打上pelican markdown -o blog -s local_publishconf.py查看是甚麼錯誤導致存檔錯誤盡而去除錯,再到LEO去改正,改完推送完即完成
+    
+    3.用Onshape繪圖</t>
+<t tx="leo.20181104235059.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181104235059.2"># W6
+
+    1.學習如何處理網誌error的問題，因為自己也有遇到這問題，所以比較清楚如何排除問題
+    
+    2.安裝新版p37
+    
+    3.說明如何升級最新的CMSimfly倉儲中的flaskapp.py
+    
+    4.用Onshape繪圖
+    
+    5.複習W1-W5的課程</t>
+<t tx="leo.20181104235100.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181104235100.2"># W5
+
+     1.使用OnShape繪圖，讓自己能夠學習不一樣的程式和學英文</t>
+<t tx="leo.20181104235102.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181104235102.2"># W4
+
+    1.學習管理期中作業倉儲網誌，Blog，投影片
+    
+    2.學習使用Onshape，簡單繪製圖形，熟悉操作方法</t>
+<t tx="leo.20181104235103.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181104235103.2"># W3
+
+中秋節放假喔~~~
+
+</t>
+<t tx="leo.20181104235105.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20181104235105.2"># W2
+
+    1.進到mde.tw &gt; i &gt;week2&gt;領取個人倉儲 (在mdecadp2018下的site-40623245)
+
+    2.在site-40623245的 settings &gt; Branches &gt; 將branches改為gh-pages
+
+    3.開始試著練習OnShape
+
+    4.學習如何維護網誌和投影片
+
 </t>
 </tnodes>
 </leo_file>
