@@ -2455,7 +2455,7 @@ def get_page2(heading, head, edit):
     outstring = '''&lt;!doctype html&gt;
 &lt;html&gt;&lt;head&gt;
 &lt;meta http-equiv="content-type" content="text/html;charset=utf-8"&gt;
-&lt;title&gt;電腦輔助設計實習title&gt; \
+&lt;title&gt;電腦輔助設計實習&lt;/title&gt; \
 &lt;link rel="stylesheet" type="text/css" href="./../static/cmsimply.css"&gt;
 ''' + syntaxhighlight2()
 
@@ -2490,7 +2490,6 @@ window.location= 'https://' + location.host + location.pathname + location.searc
 &lt;/confmenu&gt;&lt;/header&gt;
 '''
     return outstring
-
 
 </t>
 <t tx="leo.20180630211407.1">圖片的連結必須改為靜態模式, 而非目前的動態模式

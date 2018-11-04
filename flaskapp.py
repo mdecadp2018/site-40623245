@@ -1889,7 +1889,7 @@ def set_css2():
     outstring = '''<!doctype html>
 <html><head>
 <meta http-equiv="content-type" content="text/html;charset=utf-8">
-<title>電腦輔助設計實習title> \
+<title>電腦輔助設計實習</title> \
 <link rel="stylesheet" type="text/css" href="./../static/cmsimply.css">
 ''' + syntaxhighlight2()
 
@@ -1924,7 +1924,6 @@ window.location= 'https://' + location.host + location.pathname + location.searc
 </confmenu></header>
 '''
     return outstring
-
 
 def set_footer():
     """footer for page"""
