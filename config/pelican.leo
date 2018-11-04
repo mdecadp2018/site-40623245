@@ -70,16 +70,16 @@
 <v t="leo.20181029112428.3"><vh>2018 Fall CP 課程</vh>
 <v t="leo.20181029112428.4"><vh>@edit 20180718.md</vh></v>
 </v>
-<v t="leo.20181029112428.5" a="E"><vh>Week 1</vh>
+<v t="leo.20181029112428.5"><vh>Week 1</vh>
 <v t="leo.20181029112428.6"><vh>@edit Week 1.md</vh></v>
 </v>
-<v t="leo.20181029112428.7" a="E"><vh>Week 2</vh>
+<v t="leo.20181029112428.7"><vh>Week 2</vh>
 <v t="leo.20181029112428.8"><vh>@edit Week 2.md</vh></v>
 </v>
-<v t="leo.20181029112428.9" a="E"><vh>Week 3</vh>
+<v t="leo.20181029112428.9"><vh>Week 3</vh>
 <v t="leo.20181029112428.10"><vh>@edit Week 3.md</vh></v>
 </v>
-<v t="leo.20181029112428.11" a="E"><vh>Week 4</vh>
+<v t="leo.20181029112428.11"><vh>Week 4</vh>
 <v t="leo.20181029112428.12"><vh>@edit Week 4.md</vh></v>
 </v>
 <v t="leo.20181029112428.13" a="E"><vh>Week 5</vh>
@@ -90,6 +90,9 @@
 </v>
 <v t="leo.20181029112428.17" a="E"><vh>Week 7</vh>
 <v t="leo.20181029112428.18"><vh>@edit Week 7.md</vh></v>
+</v>
+<v t="leo.20181104232700.1" a="E"><vh>Week 8</vh>
+<v t="leo.20181104232700.2"><vh>@edit Week 8.md</vh></v>
 </v>
 </v>
 </v>
@@ -131,6 +134,7 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20181029112428.5"></t>
 <t tx="leo.20181029112428.7"></t>
 <t tx="leo.20181029112428.9"></t>
+<t tx="leo.20181104232700.1"></t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/

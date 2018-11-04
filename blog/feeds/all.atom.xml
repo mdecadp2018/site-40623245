@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623245/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623245/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623245/blog/</id><updated>2018-10-22T11:00:00+08:00</updated><entry><title>Week 7</title><link href="https://mdecadp2018.github.io/site-40623245/blog/Week%207.html" rel="alternate"></link><published>2018-10-22T11:00:00+08:00</published><updated>2018-10-22T11:00:00+08:00</updated><author><name>40623245</name></author><id>tag:mdecadp2018.github.io,2018-10-22:/site-40623245/blog/Week 7.html</id><summary type="html">&lt;p&gt;學習如何架構虛擬網路&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;學習如何架構虛擬網路&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623245/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623245/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623245/blog/</id><updated>2018-10-29T11:00:00+08:00</updated><entry><title>Week 8</title><link href="https://mdecadp2018.github.io/site-40623245/blog/Week%208.html" rel="alternate"></link><published>2018-10-29T11:00:00+08:00</published><updated>2018-10-29T11:00:00+08:00</updated><author><name>40623245</name></author><id>tag:mdecadp2018.github.io,2018-10-29:/site-40623245/blog/Week 8.html</id><summary type="html">&lt;p&gt;回顧電腦輔助實習到目前為止的課程&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;回顧電腦輔助實習到目前為止的課程&lt;/p&gt;
+
+
+&lt;h2&gt;課程內容&lt;/h2&gt;
+&lt;p&gt;上課內容所學:&lt;/p&gt;
+&lt;p&gt;1.回顧電腦輔助實習到目前為止的課程&lt;/p&gt;
+&lt;p&gt;2.從創立onshape帳號&amp;gt;&amp;gt;畫圖&amp;gt;&amp;gt;github&amp;gt;&amp;gt;到第10週要分組&lt;/p&gt;
+&lt;p&gt;3.有關github故障的問題與其解決辦法&lt;/p&gt;
+&lt;p&gt;4.blog出現404錯誤, 先從cmd.exe打上pelican markdown -o blog -slocal_publishconf.py查看是甚麼錯誤導致存檔錯誤盡而去除錯,再到LEO去改正,改完推送完即完成&lt;/p&gt;
+&lt;p&gt;心得:從第一週到八週學了很多東西，如何利用onshape畫圖，排除Blog，網誌的錯誤，從錯誤中學習，也會比別人學的還要多，再來期中考打完自評成績過後就是要分組執行了，考驗了自己還有和其他人的合作，期望大家能和平相處做完期末作業&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 7</title><link href="https://mdecadp2018.github.io/site-40623245/blog/Week%207.html" rel="alternate"></link><published>2018-10-22T11:00:00+08:00</published><updated>2018-10-22T11:00:00+08:00</updated><author><name>40623245</name></author><id>tag:mdecadp2018.github.io,2018-10-22:/site-40623245/blog/Week 7.html</id><summary type="html">&lt;p&gt;因Github出問題，所以學習架構虛擬網路和複習week1~week6所學&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;因Github出問題，所以學習架構虛擬網路和複習week1~week6所學&lt;/p&gt;
 
 
 &lt;h2&gt;課程內容&lt;/h2&gt;
@@ -11,8 +21,11 @@
 
 
 &lt;h2&gt;課程內容&lt;/h2&gt;
-&lt;p&gt;1.學習如何處理網誌error的問題
-2.安裝新版p37&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 5</title><link href="https://mdecadp2018.github.io/site-40623245/blog/Week%205.html" rel="alternate"></link><published>2018-10-08T11:00:00+08:00</published><updated>2018-10-08T11:00:00+08:00</updated><author><name>40623245</name></author><id>tag:mdecadp2018.github.io,2018-10-08:/site-40623245/blog/Week 5.html</id><summary type="html">&lt;p&gt;練習繪製onshape&lt;/p&gt;
+&lt;p&gt;上課內容所學:&lt;/p&gt;
+&lt;p&gt;1.學習如何處理網誌error的問題，因為自己也有遇到這問題，所以比較清楚如何排除問題
+2.安裝新版p37&lt;/p&gt;
+&lt;p&gt;3.說明如何升級最新的CMSimfly倉儲中的flaskapp.py.&lt;/p&gt;
+&lt;p&gt;心得:到了第六週，這禮拜老師給的進度就是複習從第一週到第六週的進度，好讓自己能跟上進度，持續每周的更新，onshape較熟悉了，但是畫圖的部分自己還是要繼續加強，也是要繼續的狂Ｋ英文&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 5</title><link href="https://mdecadp2018.github.io/site-40623245/blog/Week%205.html" rel="alternate"></link><published>2018-10-08T11:00:00+08:00</published><updated>2018-10-08T11:00:00+08:00</updated><author><name>40623245</name></author><id>tag:mdecadp2018.github.io,2018-10-08:/site-40623245/blog/Week 5.html</id><summary type="html">&lt;p&gt;練習繪製onshape&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;練習繪製onshape&lt;/p&gt;
 
 
@@ -23,29 +36,27 @@
 &lt;p&gt;4.helix--螺旋線&lt;/p&gt;
 &lt;p&gt;5.draft--拔模&lt;/p&gt;
 &lt;p&gt;6.replace face--偏移表面&lt;/p&gt;
-&lt;p&gt;7.mirror--鏡射&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 4</title><link href="https://mdecadp2018.github.io/site-40623245/blog/Week%204.html" rel="alternate"></link><published>2018-10-01T11:00:00+08:00</published><updated>2018-10-01T11:00:00+08:00</updated><author><name>40623245</name></author><id>tag:mdecadp2018.github.io,2018-10-01:/site-40623245/blog/Week 4.html</id><summary type="html">&lt;p&gt;學習如何使用onshape&lt;/p&gt;
+&lt;p&gt;7.mirror--鏡射&lt;/p&gt;
+&lt;p&gt;心得:經過上次的練習，慢慢的對onshape比較熟了，對於介面是英文版的就會比較陌生，因為自己的英文能力不好，所以看上課內容的PDF也很吃力，常常就是狂查單字，順便知道多少是多少,英文真的是很重要呢!!&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 4</title><link href="https://mdecadp2018.github.io/site-40623245/blog/Week%204.html" rel="alternate"></link><published>2018-10-01T11:00:00+08:00</published><updated>2018-10-01T11:00:00+08:00</updated><author><name>40623245</name></author><id>tag:mdecadp2018.github.io,2018-10-01:/site-40623245/blog/Week 4.html</id><summary type="html">&lt;p&gt;學習如何使用onshape&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;學習如何使用onshape&lt;/p&gt;
 
 
 &lt;h2&gt;課程內容&lt;/h2&gt;
 &lt;p&gt;內容所學:&lt;/p&gt;
 &lt;p&gt;1.在我們開始在Onshape進行設計之前，我們需要創建一個帳戶並登錄。&lt;/p&gt;
-&lt;p&gt;2.與大多數CAD軟件不同，您無需下載或安裝任何內容即可使用Onshape 
-在頁面上 右上角有個分享鍵 因為Onshpae可以與人共享並可同時處理文檔&lt;/p&gt;
-&lt;p&gt;3.在頁面上有5個選項: 特徵列表、 零件清單、 選項卡、 圖形區域 、View cube&lt;/p&gt;
+&lt;p&gt;2.與大多數CAD軟件不同，您無需下載或安裝任何內容即可使用,Onshape在頁面上右上角有個分享鍵,因為Onshpae可以與人共享並可同時處理文檔。&lt;/p&gt;
+&lt;p&gt;3.在頁面上有5個選項: 特徵列表、零件清單、 選項卡、 圖形區域 、View cube。&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;Onshape上有個功能 將鼠標停在ViewCube 點擊正面就會讓立方體轉到正面 依此類推 也可以放大和縮小還有左右平移&lt;/p&gt;
+&lt;p&gt;Onshape上有個功能 將鼠標停在ViewCube點擊正面就會讓立方體轉到正面依此類推也可以放大和縮小還有左右平移。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;為了更好地理解基於草圖的建模的概念，讓我們先打開一個文檔。
-轉到"College - Sketch-Based Modeling" ，然後單擊頂部的“Make a private copy”。
-選擇"私人"，然後單擊對話框中的確定。&lt;/p&gt;
+&lt;p&gt;為了更好地理解基於草圖的建模的概念，讓我們先打開一個文檔。轉到"College - Sketch-Based Modeling" ，然後單擊頂部的“Make a private copy“。選擇"私人"，然後單擊對話框中的確定。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;6.藍色框中最右邊的四個圖標代表Extrude，Revolve，Sweep和Loft。 這些被稱為4個基本特徵&lt;/p&gt;
-&lt;p&gt;7.拉伸功能 能讓一個面 變成體 可以直接打想要的數值上去&lt;/p&gt;
-&lt;p&gt;8.將鼠標停留在你想要知道的功能上約2秒 就可以顯示此功能的文字&lt;/p&gt;
+&lt;p&gt;6.藍色框中最右邊的四個圖標代表Extrude，Revolve，Sweep和Loft。 這些被稱為4個基本特徵。&lt;/p&gt;
+&lt;p&gt;7.拉伸功能能讓一個面變成體可以直接打想要的數值上去。&lt;/p&gt;
+&lt;p&gt;8.將鼠標停留在你想要知道的功能上約2秒 就可以顯示此功能的文字。&lt;/p&gt;
 &lt;p&gt;Lesson1 單字:   navigating 導航    documents 文件
 account settings 帳號設定              subscription plans 訂閱計畫
 Cylinder shell 氣缸殼                         visualization 可視化
