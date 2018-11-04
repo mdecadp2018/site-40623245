@@ -346,9 +346,7 @@ make.start()
     3.有關github故障的問題與其解決辦法
     
     4.blog出現404錯誤, 先從cmd.exe打上pelican markdown -o blog -slocal_publishconf.py查看是甚麼錯誤導致存檔錯誤盡而去除錯,再到LEO去改正,改完推送完即完成</t>
-<t tx="leo.20181104235046.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
+<t tx="leo.20181104235046.1">@others
     &lt;/script&gt;
 &lt;/section&gt;
 
