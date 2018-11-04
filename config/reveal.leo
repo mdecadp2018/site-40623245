@@ -355,7 +355,7 @@ make.start()
 </t>
 <t tx="leo.20181104235046.2"># W1
 
-說明如何建立個人的Github Pages網站
+ 說明如何建立個人的Github Pages網站
 
     1.建立一個學號.github.io的個人倉儲(即40623245.github.io)並git clone到隨身碟裡
     
