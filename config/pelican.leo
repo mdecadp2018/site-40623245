@@ -70,16 +70,16 @@
 <v t="leo.20181029112428.3"><vh>2018 Fall CP 課程</vh>
 <v t="leo.20181029112428.4"><vh>@edit 20180718.md</vh></v>
 </v>
-<v t="leo.20181029112428.5"><vh>Week 1</vh>
+<v t="leo.20181029112428.5" a="E"><vh>Week 1</vh>
 <v t="leo.20181029112428.6"><vh>@edit Week 1.md</vh></v>
 </v>
-<v t="leo.20181029112428.7"><vh>Week 2</vh>
+<v t="leo.20181029112428.7" a="E"><vh>Week 2</vh>
 <v t="leo.20181029112428.8"><vh>@edit Week 2.md</vh></v>
 </v>
-<v t="leo.20181029112428.9"><vh>Week 3</vh>
+<v t="leo.20181029112428.9" a="E"><vh>Week 3</vh>
 <v t="leo.20181029112428.10"><vh>@edit Week 3.md</vh></v>
 </v>
-<v t="leo.20181029112428.11"><vh>Week 4</vh>
+<v t="leo.20181029112428.11" a="E"><vh>Week 4</vh>
 <v t="leo.20181029112428.12"><vh>@edit Week 4.md</vh></v>
 </v>
 <v t="leo.20181029112428.13" a="E"><vh>Week 5</vh>

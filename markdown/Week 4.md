@@ -33,12 +33,20 @@ Author: 40623245
 8.將鼠標停留在你想要知道的功能上約2秒 就可以顯示此功能的文字。
 
 Lesson1 單字:   navigating 導航    documents 文件
+
 account settings 帳號設定              subscription plans 訂閱計畫
+
 Cylinder shell 氣缸殼                         visualization 可視化
+
 sketches 素描                                         Existing public models 現有的公共模型
+
 search and copy to workspace 搜索並複製到工作區
+
 Curriculum 課程                                   platform 平台
+
 instructor 講師                                      technical 技術
+
 Assessment 評定                                 Instructors 教師
+
 modify 修改                                            deliver 交付
 

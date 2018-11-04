@@ -14,7 +14,10 @@ Author: 40623245
 課程內容
 ----
 1.進到mde.tw > i >week2>領取個人倉儲 (在mdecadp2018下的site-40623245)
+
 2.在site-40623245的 settings > Branches > 將branches改為gh-pages
+
 3.開始試著練習OnShape
+
 4.學習如何維護網誌和投影片
 

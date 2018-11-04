@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623245/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623245/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623245/blog/</id><updated>2018-10-29T11:00:00+08:00</updated><entry><title>Week 8</title><link href="https://mdecadp2018.github.io/site-40623245/blog/Week%208.html" rel="alternate"></link><published>2018-10-29T11:00:00+08:00</published><updated>2018-10-29T11:00:00+08:00</updated><author><name>40623245</name></author><id>tag:mdecadp2018.github.io,2018-10-29:/site-40623245/blog/Week 8.html</id><summary type="html">&lt;p&gt;回顧電腦輔助實習到目前為止的課程&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2018-10-29T11:00:00+08:00</updated><entry><title>Week 8</title><link href="./Week%208.html" rel="alternate"></link><published>2018-10-29T11:00:00+08:00</published><updated>2018-10-29T11:00:00+08:00</updated><author><name>40623245</name></author><id>tag:None,2018-10-29:./Week 8.html</id><summary type="html">&lt;p&gt;回顧電腦輔助實習到目前為止的課程&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;回顧電腦輔助實習到目前為止的課程&lt;/p&gt;
 
 
@@ -9,23 +9,23 @@
 &lt;p&gt;2.從創立onshape帳號&amp;gt;&amp;gt;畫圖&amp;gt;&amp;gt;github&amp;gt;&amp;gt;到第10週要分組&lt;/p&gt;
 &lt;p&gt;3.有關github故障的問題與其解決辦法&lt;/p&gt;
 &lt;p&gt;4.blog出現404錯誤, 先從cmd.exe打上pelican markdown -o blog -slocal_publishconf.py查看是甚麼錯誤導致存檔錯誤盡而去除錯,再到LEO去改正,改完推送完即完成&lt;/p&gt;
-&lt;p&gt;心得:從第一週到八週學了很多東西，如何利用onshape畫圖，排除Blog，網誌的錯誤，從錯誤中學習，也會比別人學的還要多，再來期中考打完自評成績過後就是要分組執行了，考驗了自己還有和其他人的合作，期望大家能和平相處做完期末作業&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 7</title><link href="https://mdecadp2018.github.io/site-40623245/blog/Week%207.html" rel="alternate"></link><published>2018-10-22T11:00:00+08:00</published><updated>2018-10-22T11:00:00+08:00</updated><author><name>40623245</name></author><id>tag:mdecadp2018.github.io,2018-10-22:/site-40623245/blog/Week 7.html</id><summary type="html">&lt;p&gt;因Github出問題，所以學習架構虛擬網路和複習week1~week6所學&lt;/p&gt;
+&lt;p&gt;心得:從第一週到八週學了很多東西，如何利用onshape畫圖，排除Blog，網誌的錯誤，從錯誤中學習，也會比別人學的還要多，再來期中考打完自評成績過後就是要分組執行了，考驗了自己還有和其他人的合作，期望大家能和平相處做完期末作業&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 7</title><link href="./Week%207.html" rel="alternate"></link><published>2018-10-22T11:00:00+08:00</published><updated>2018-10-22T11:00:00+08:00</updated><author><name>40623245</name></author><id>tag:None,2018-10-22:./Week 7.html</id><summary type="html">&lt;p&gt;因Github出問題，所以學習架構虛擬網路和複習week1~week6所學&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;因Github出問題，所以學習架構虛擬網路和複習week1~week6所學&lt;/p&gt;
 
 
 &lt;h2&gt;課程內容&lt;/h2&gt;
-&lt;p&gt;1.因Github出問題，所以學習架構虛擬網路和複習week1~week6所學
-2.練習繪製onshape week5 homework part1 和 part2
-3.4.blog出現404錯誤, 先從cmd.exe打上pelican markdown -o blog -s local_publishconf.py查看是甚麼錯誤導致存檔錯誤盡而去除錯,再到LEO去改正,改完推送完即完成&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 6</title><link href="https://mdecadp2018.github.io/site-40623245/blog/Week%206.html" rel="alternate"></link><published>2018-10-15T11:00:00+08:00</published><updated>2018-10-15T11:00:00+08:00</updated><author><name>40623245</name></author><id>tag:mdecadp2018.github.io,2018-10-15:/site-40623245/blog/Week 6.html</id><summary type="html">&lt;p&gt;複習上課內容，學習如何處理error問題&lt;/p&gt;
+&lt;p&gt;1.因Github出問題，所以學習架構虛擬網路和複習week1~week6所學&lt;/p&gt;
+&lt;p&gt;2.練習繪製onshape week5 homework part1 和 part2&lt;/p&gt;
+&lt;p&gt;3.4.blog出現404錯誤, 先從cmd.exe打上pelican markdown -o blog -s local_publishconf.py查看是甚麼錯誤導致存檔錯誤盡而去除錯,再到LEO去改正,改完推送完即完成&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 6</title><link href="./Week%206.html" rel="alternate"></link><published>2018-10-15T11:00:00+08:00</published><updated>2018-10-15T11:00:00+08:00</updated><author><name>40623245</name></author><id>tag:None,2018-10-15:./Week 6.html</id><summary type="html">&lt;p&gt;複習上課內容，學習如何處理error問題&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;複習上課內容，學習如何處理error問題&lt;/p&gt;
 
 
 &lt;h2&gt;課程內容&lt;/h2&gt;
 &lt;p&gt;上課內容所學:&lt;/p&gt;
-&lt;p&gt;1.學習如何處理網誌error的問題，因為自己也有遇到這問題，所以比較清楚如何排除問題
-2.安裝新版p37&lt;/p&gt;
+&lt;p&gt;1.學習如何處理網誌error的問題，因為自己也有遇到這問題，所以比較清楚如何排除問題&lt;/p&gt;
+&lt;p&gt;2.安裝新版p37&lt;/p&gt;
 &lt;p&gt;3.說明如何升級最新的CMSimfly倉儲中的flaskapp.py.&lt;/p&gt;
-&lt;p&gt;心得:到了第六週，這禮拜老師給的進度就是複習從第一週到第六週的進度，好讓自己能跟上進度，持續每周的更新，onshape較熟悉了，但是畫圖的部分自己還是要繼續加強，也是要繼續的狂Ｋ英文&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 5</title><link href="https://mdecadp2018.github.io/site-40623245/blog/Week%205.html" rel="alternate"></link><published>2018-10-08T11:00:00+08:00</published><updated>2018-10-08T11:00:00+08:00</updated><author><name>40623245</name></author><id>tag:mdecadp2018.github.io,2018-10-08:/site-40623245/blog/Week 5.html</id><summary type="html">&lt;p&gt;練習繪製onshape&lt;/p&gt;
+&lt;p&gt;心得:到了第六週，這禮拜老師給的進度就是複習從第一週到第六週的進度，好讓自己能跟上進度，持續每周的更新，onshape較熟悉了，但是畫圖的部分自己還是要繼續加強，也是要繼續的狂Ｋ英文&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 5</title><link href="./Week%205.html" rel="alternate"></link><published>2018-10-08T11:00:00+08:00</published><updated>2018-10-08T11:00:00+08:00</updated><author><name>40623245</name></author><id>tag:None,2018-10-08:./Week 5.html</id><summary type="html">&lt;p&gt;練習繪製onshape&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;練習繪製onshape&lt;/p&gt;
 
 
@@ -37,7 +37,7 @@
 &lt;p&gt;5.draft--拔模&lt;/p&gt;
 &lt;p&gt;6.replace face--偏移表面&lt;/p&gt;
 &lt;p&gt;7.mirror--鏡射&lt;/p&gt;
-&lt;p&gt;心得:經過上次的練習，慢慢的對onshape比較熟了，對於介面是英文版的就會比較陌生，因為自己的英文能力不好，所以看上課內容的PDF也很吃力，常常就是狂查單字，順便知道多少是多少,英文真的是很重要呢!!&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 4</title><link href="https://mdecadp2018.github.io/site-40623245/blog/Week%204.html" rel="alternate"></link><published>2018-10-01T11:00:00+08:00</published><updated>2018-10-01T11:00:00+08:00</updated><author><name>40623245</name></author><id>tag:mdecadp2018.github.io,2018-10-01:/site-40623245/blog/Week 4.html</id><summary type="html">&lt;p&gt;學習如何使用onshape&lt;/p&gt;
+&lt;p&gt;心得:經過上次的練習，慢慢的對onshape比較熟了，對於介面是英文版的就會比較陌生，因為自己的英文能力不好，所以看上課內容的PDF也很吃力，常常就是狂查單字，順便知道多少是多少,英文真的是很重要呢!!&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 4</title><link href="./Week%204.html" rel="alternate"></link><published>2018-10-01T11:00:00+08:00</published><updated>2018-10-01T11:00:00+08:00</updated><author><name>40623245</name></author><id>tag:None,2018-10-01:./Week 4.html</id><summary type="html">&lt;p&gt;學習如何使用onshape&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;學習如何使用onshape&lt;/p&gt;
 
 
@@ -57,36 +57,36 @@
 &lt;p&gt;6.藍色框中最右邊的四個圖標代表Extrude，Revolve，Sweep和Loft。 這些被稱為4個基本特徵。&lt;/p&gt;
 &lt;p&gt;7.拉伸功能能讓一個面變成體可以直接打想要的數值上去。&lt;/p&gt;
 &lt;p&gt;8.將鼠標停留在你想要知道的功能上約2秒 就可以顯示此功能的文字。&lt;/p&gt;
-&lt;p&gt;Lesson1 單字:   navigating 導航    documents 文件
-account settings 帳號設定              subscription plans 訂閱計畫
-Cylinder shell 氣缸殼                         visualization 可視化
-sketches 素描                                         Existing public models 現有的公共模型
-search and copy to workspace 搜索並複製到工作區
-Curriculum 課程                                   platform 平台
-instructor 講師                                      technical 技術
-Assessment 評定                                 Instructors 教師
-modify 修改                                            deliver 交付&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 3</title><link href="https://mdecadp2018.github.io/site-40623245/blog/Week%203.html" rel="alternate"></link><published>2018-09-24T11:00:00+08:00</published><updated>2018-09-24T11:00:00+08:00</updated><author><name>40623245</name></author><id>tag:mdecadp2018.github.io,2018-09-24:/site-40623245/blog/Week 3.html</id><summary type="html">&lt;p&gt;中秋節放假&lt;/p&gt;
+&lt;p&gt;Lesson1 單字:   navigating 導航    documents 文件&lt;/p&gt;
+&lt;p&gt;account settings 帳號設定              subscription plans 訂閱計畫&lt;/p&gt;
+&lt;p&gt;Cylinder shell 氣缸殼                         visualization 可視化&lt;/p&gt;
+&lt;p&gt;sketches 素描                                         Existing public models 現有的公共模型&lt;/p&gt;
+&lt;p&gt;search and copy to workspace 搜索並複製到工作區&lt;/p&gt;
+&lt;p&gt;Curriculum 課程                                   platform 平台&lt;/p&gt;
+&lt;p&gt;instructor 講師                                      technical 技術&lt;/p&gt;
+&lt;p&gt;Assessment 評定                                 Instructors 教師&lt;/p&gt;
+&lt;p&gt;modify 修改                                            deliver 交付&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 3</title><link href="./Week%203.html" rel="alternate"></link><published>2018-09-24T11:00:00+08:00</published><updated>2018-09-24T11:00:00+08:00</updated><author><name>40623245</name></author><id>tag:None,2018-09-24:./Week 3.html</id><summary type="html">&lt;p&gt;中秋節放假&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;中秋節放假&lt;/p&gt;
 
 
-&lt;p&gt;中秋節放假~~~~&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 2</title><link href="https://mdecadp2018.github.io/site-40623245/blog/Week%202.html" rel="alternate"></link><published>2018-09-17T11:00:00+08:00</published><updated>2018-09-17T11:00:00+08:00</updated><author><name>40623245</name></author><id>tag:mdecadp2018.github.io,2018-09-17:/site-40623245/blog/Week 2.html</id><summary type="html">&lt;p&gt;管理個人的期中作業網站內容&lt;/p&gt;
+&lt;p&gt;中秋節放假~~~~&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 2</title><link href="./Week%202.html" rel="alternate"></link><published>2018-09-17T11:00:00+08:00</published><updated>2018-09-17T11:00:00+08:00</updated><author><name>40623245</name></author><id>tag:None,2018-09-17:./Week 2.html</id><summary type="html">&lt;p&gt;管理個人的期中作業網站內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;管理個人的期中作業網站內容&lt;/p&gt;
 
 
 &lt;h2&gt;課程內容&lt;/h2&gt;
-&lt;p&gt;1.進到mde.tw &amp;gt; i &amp;gt;week2&amp;gt;領取個人倉儲 (在mdecadp2018下的site-40623245)
-2.在site-40623245的 settings &amp;gt; Branches &amp;gt; 將branches改為gh-pages
-3.開始試著練習OnShape
-4.學習如何維護網誌和投影片&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 1</title><link href="https://mdecadp2018.github.io/site-40623245/blog/Week%201.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>40623245</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623245/blog/Week 1.html</id><summary type="html">&lt;p&gt;新增一個.github.io 的倉儲&lt;/p&gt;
+&lt;p&gt;1.進到mde.tw &amp;gt; i &amp;gt;week2&amp;gt;領取個人倉儲 (在mdecadp2018下的site-40623245)&lt;/p&gt;
+&lt;p&gt;2.在site-40623245的 settings &amp;gt; Branches &amp;gt; 將branches改為gh-pages&lt;/p&gt;
+&lt;p&gt;3.開始試著練習OnShape&lt;/p&gt;
+&lt;p&gt;4.學習如何維護網誌和投影片&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 1</title><link href="./Week%201.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>40623245</name></author><id>tag:None,2018-09-10:./Week 1.html</id><summary type="html">&lt;p&gt;新增一個.github.io 的倉儲&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;新增一個.github.io 的倉儲&lt;/p&gt;
 
 
 &lt;h2&gt;課程內容&lt;/h2&gt;
-&lt;p&gt;1.帶筆記本，耳機，隨身碟
-2.在github帳號下，新增一個New repository，名為 : 學號.github.io
-3.將自己新增的倉儲與老師的倉儲 clone 下來
-4.將老師的資料複製，除了 .git 和 README.me  全部貼入自己的資料夾
-5.綁定帳號
-6.用 git status 查看所有檔案目前的狀況，之後再  git add . &amp;gt; git commit -m "initial add " &amp;gt;git push ，將剛剛新增的檔案推上去
-7.開啟 python wsgi.py ，進入近端，更改標題名稱
-8.重複git status&amp;gt; git add。&amp;gt; git commit -m“在標題上添加名稱”&amp;gt; git push後完成&lt;/p&gt;</content><category term="2018Fall"></category></entry></feed>
+&lt;p&gt;1.帶筆記本，耳機，隨身碟&lt;/p&gt;
+&lt;p&gt;2.在github帳號下，新增一個New repository，名為 : 學號.github.io&lt;/p&gt;
+&lt;p&gt;3.將自己新增的倉儲與老師的倉儲 clone 下來&lt;/p&gt;
+&lt;p&gt;4.將老師的資料複製，除了 .git 和 README.me  全部貼入自己的資料夾&lt;/p&gt;
+&lt;p&gt;5.綁定帳號&lt;/p&gt;
+&lt;p&gt;6.用 git status 查看所有檔案目前的狀況，之後再  git add . &amp;gt; git commit -m "initial add " &amp;gt;git push ，將剛剛新增的檔案推上去&lt;/p&gt;
+&lt;p&gt;7.開啟 python wsgi.py ，進入近端，更改標題名稱&lt;/p&gt;
+&lt;p&gt;8.重複git status&amp;gt; git add。&amp;gt; git commit -m“在標題上添加名稱”&amp;gt; git push後完成&lt;/p&gt;</content><category term="2018Fall"></category></entry></feed>
