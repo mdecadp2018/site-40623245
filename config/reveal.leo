@@ -328,15 +328,15 @@ make.start()
 </t>
 <t tx="leo.20181104235046.2"># W10-11
 
-    1.依照實習任務三使用onshape繪製機械手臂
+   1.依照實習任務三使用onshape繪製機械手臂
  
-    2.個人網站更新
+   2.個人網站更新
  
-    3.組員分配
+   3.組員分配
  
-    [實習任務三]
+   [實習任務三]
 
-    [實習任務三]:https://cad.onshape.com/documents/95560fc8cd75cfab6c51a4de/w/fd956389631fc665587261b1/e/6b5cdabcf3a4f2874ab346e3
+   [實習任務三]:https://cad.onshape.com/documents/95560fc8cd75cfab6c51a4de/w/fd956389631fc665587261b1/e/6b5cdabcf3a4f2874ab346e3
 </t>
 <t tx="leo.20181104235057.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -347,17 +347,17 @@ make.start()
 </t>
 <t tx="leo.20181104235057.2"># W15-16
 
-    1.將最後版本的手足球，重新繪製成零件尺寸圖
+   1.將最後版本的手足球，重新繪製成零件尺寸圖
    
-    2.將個人網站更新完畢
+   2.將個人網站更新完畢
     
-    [零件尺寸圖]
+   [零件尺寸圖]
 
-    [零件尺寸圖]:https://cad.onshape.com/documents/5653844cc215c64eac3c06cf/w/5ad65bf78937d05897ff41fb/e/d8734d77d2aa524b961cc1dc
+   [零件尺寸圖]:https://cad.onshape.com/documents/5653844cc215c64eac3c06cf/w/5ad65bf78937d05897ff41fb/e/d8734d77d2aa524b961cc1dc
     
-    [個人網站]
+   [個人網站]
 
-    [個人網站]:https://mdecadp2018.github.io/site-40623245/content/index.html
+   [個人網站]:https://mdecadp2018.github.io/site-40623245/content/index.html
 
 
     
@@ -371,7 +371,7 @@ make.start()
 </t>
 <t tx="leo.20181104235100.2"># W14
 
-    1.修改第二版本手足球零件尺寸圖
+   1.修改第二版本手足球零件尺寸圖
    
     [零件尺寸圖]
 
@@ -389,9 +389,9 @@ make.start()
 </t>
 <t tx="leo.20181104235102.2"># W13
 
-    1.將最初的手足球版本，繪製成零件尺寸圖
+   1.將最初的手足球版本，繪製成零件尺寸圖
     
-    2.使用pandoc製作報告
+   2.使用pandoc製作報告
     
 
 </t>
@@ -403,9 +403,9 @@ make.start()
 </t>
 <t tx="leo.20181104235103.2"># W12
 
-    1.使用Pandoc製作組別報告
+   1.使用Pandoc製作組別報告
    
-    2.和組員討論手足球模擬
+   2.和組員討論手足球模擬
 
 
 </t>
