@@ -373,9 +373,9 @@ make.start()
 
    1.修改第二版本手足球零件尺寸圖
    
-    [零件尺寸圖]
+   [零件尺寸圖]
 
-    [零件尺寸圖]:https://cad.onshape.com/documents/0baaceb2b8b167a9382a63d0/w/1b9d759f8c055bc4386c1f78/e/d1c01e699f7b83c22c1a872f
+   [零件尺寸圖]:https://cad.onshape.com/documents/0baaceb2b8b167a9382a63d0/w/1b9d759f8c055bc4386c1f78/e/d1c01e699f7b83c22c1a872f
 
    
    
@@ -391,7 +391,7 @@ make.start()
 
    1.將最初的手足球版本，繪製成零件尺寸圖
     
-   2.使用pandoc製作報告
+   2.使用LEO製作報告
     
 
 </t>
@@ -403,7 +403,7 @@ make.start()
 </t>
 <t tx="leo.20181104235103.2"># W12
 
-   1.使用Pandoc製作組別報告
+   1.使用LEO製作組別報告
    
    2.和組員討論手足球模擬
 
