@@ -146,7 +146,7 @@ vertical: body pane on the botton</t>
 Created by [KMOLab](http://lab.kmol.info/)
 &lt;/small&gt;
 
-[2019 40623245網誌](./../blog/index.html)
+[個人網站](./../site-40623245/content/index.html)
 
 
 </t>
@@ -328,15 +328,15 @@ make.start()
 </t>
 <t tx="leo.20181104235046.2"># W10-11
 
-   1.依照實習任務三使用onshape繪製機械手臂
+    1.依照實習任務三使用onshape繪製機械手臂
  
-   2.個人網站更新
+    2.個人網站更新
  
-   3.組員分配
+    3.組員分配
  
-   [實習任務三]
+    [實習任務三]
 
-   [實習任務三]:https://cad.onshape.com/documents/95560fc8cd75cfab6c51a4de/w/fd956389631fc665587261b1/e/6b5cdabcf3a4f2874ab346e3
+    [實習任務三]:https://cad.onshape.com/documents/95560fc8cd75cfab6c51a4de/w/fd956389631fc665587261b1/e/6b5cdabcf3a4f2874ab346e3
 </t>
 <t tx="leo.20181104235057.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -347,9 +347,20 @@ make.start()
 </t>
 <t tx="leo.20181104235057.2"># W15-16
 
-   1.將最後版本的手足球，重新繪製成零件尺寸圖
+    1.將最後版本的手足球，重新繪製成零件尺寸圖
    
-   2.將個人網站更新完畢
+    2.將個人網站更新完畢
+    
+    [零件尺寸圖]
+
+    [零件尺寸圖]:https://cad.onshape.com/documents/5653844cc215c64eac3c06cf/w/5ad65bf78937d05897ff41fb/e/d8734d77d2aa524b961cc1dc
+    
+    [個人網站]
+
+    [個人網站]:https://mdecadp2018.github.io/site-40623245/content/index.html
+
+
+    
 
 </t>
 <t tx="leo.20181104235100.1">&lt;section data-markdown&gt;
@@ -360,11 +371,11 @@ make.start()
 </t>
 <t tx="leo.20181104235100.2"># W14
 
-   1.修改手足球零件尺寸圖
+    1.修改第二版本手足球零件尺寸圖
    
-   [零件尺寸圖]
+    [零件尺寸圖]
 
-   [零件尺寸圖]:https://cad.onshape.com/documents/0baaceb2b8b167a9382a63d0/w/1b9d759f8c055bc4386c1f78/e/d1c01e699f7b83c22c1a872f
+    [零件尺寸圖]:https://cad.onshape.com/documents/0baaceb2b8b167a9382a63d0/w/1b9d759f8c055bc4386c1f78/e/d1c01e699f7b83c22c1a872f
 
    
    
@@ -392,9 +403,9 @@ make.start()
 </t>
 <t tx="leo.20181104235103.2"># W12
 
-   1.使用Pandoc製作組別報告
+    1.使用Pandoc製作組別報告
    
-   2.和組員討論手足球模擬
+    2.和組員討論手足球模擬
 
 
 </t>
