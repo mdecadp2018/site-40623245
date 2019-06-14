@@ -25,29 +25,20 @@
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>課程進度</vh>
-<v t="leo.20181104235046.1" a="E"><vh>Week1</vh>
+<v t="leo.20181104235046.1" a="E"><vh>Week10</vh>
 <v t="leo.20181104235046.2"><vh>投影片內容</vh></v>
 </v>
-<v t="leo.20181104235105.1" a="E"><vh>Week2</vh>
-<v t="leo.20181104235105.2"><vh>投影片內容</vh></v>
-</v>
-<v t="leo.20181104235103.1" a="E"><vh>Week3</vh>
+<v t="leo.20181104235103.1" a="E"><vh>Week12</vh>
 <v t="leo.20181104235103.2"><vh>投影片內容</vh></v>
 </v>
-<v t="leo.20181104235102.1" a="E"><vh>Week4</vh>
+<v t="leo.20181104235102.1" a="E"><vh>Week13</vh>
 <v t="leo.20181104235102.2"><vh>投影片內容</vh></v>
 </v>
-<v t="leo.20181104235100.1" a="E"><vh>Week5</vh>
+<v t="leo.20181104235100.1" a="E"><vh>Week14</vh>
 <v t="leo.20181104235100.2"><vh>投影片內容</vh></v>
 </v>
-<v t="leo.20181104235059.1" a="E"><vh>Week6</vh>
-<v t="leo.20181104235059.2"><vh>投影片內容</vh></v>
-</v>
-<v t="leo.20181104235057.1" a="E"><vh>Week7</vh>
+<v t="leo.20181104235057.1" a="E"><vh>Week16</vh>
 <v t="leo.20181104235057.2"><vh>投影片內容</vh></v>
-</v>
-<v t="leo.20181104234938.1" a="E"><vh>Week8</vh>
-<v t="leo.20181104234938.2"><vh>投影片內容</vh></v>
 </v>
 </v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
@@ -147,7 +138,7 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 40623245網際簡報
+<t tx="leo.20180827201621.10">## 2019 40623245 協同產品設計實習
 
 ### 虎科大機械設計工程系
 
@@ -155,7 +146,7 @@ vertical: body pane on the botton</t>
 Created by [KMOLab](http://lab.kmol.info/)
 &lt;/small&gt;
 
-[2018 Fall 40623245網誌](./../blog/index.html)
+[2019 40623245網誌](./../blog/index.html)
 
 
 </t>
@@ -330,35 +321,22 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181104234938.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181104234938.2"># W8
-
-    1.回顧電腦輔助實習到目前為止的課程
-    
-    2.從創立onshape帳號&gt;&gt;畫圖&gt;&gt;github&gt;&gt;到第10週要分組
-    
-    3.有關github故障的問題與其解決辦法
-    
-    4.blog出現404錯誤, 先從cmd.exe打上pelican markdown -o blog -slocal_publishconf.py查看是甚麼錯誤導致存檔錯誤盡而去除錯,再到LEO去改正,改完推送完即完成</t>
 <t tx="leo.20181104235046.1">@others
     &lt;/script&gt;
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20181104235046.2"># W1
+<t tx="leo.20181104235046.2"># W10-11
 
- 說明如何建立個人的Github Pages網站
+   1.依照實習任務三使用onshape繪製機械手臂
+ 
+   2.個人網站更新
+ 
+   3.組員分配
+ 
+   [實習任務三]
 
-    1.建立一個學號.github.io的個人倉儲(即40623245.github.io)並git clone到隨身碟裡
-    
-    2.示範如何管理CMSimfly靜態網頁、編輯簡報，如何建立網誌。
-
+   [實習任務三]:https://cad.onshape.com/documents/95560fc8cd75cfab6c51a4de/w/fd956389631fc665587261b1/e/6b5cdabcf3a4f2874ab346e3
 </t>
 <t tx="leo.20181104235057.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -367,77 +345,57 @@ make.start()
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20181104235057.2"># W7
+<t tx="leo.20181104235057.2"># W15-16
 
-    1.學習如何處理網誌error的問題，因為自己也有遇到這問題，所以比較清楚如何排除問題
-    
-    2.blog出現404錯誤, 先從cmd.exe打上pelican markdown -o blog -s local_publishconf.py查看是甚麼錯誤導致存檔錯誤盡而去除錯,再到LEO去改正,改完推送完即完成
-    
-    3.用Onshape繪圖</t>
-<t tx="leo.20181104235059.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
+   1.將最後版本的手足球，重新繪製成零件尺寸圖
+   
+   2.將個人網站更新完畢
 
 </t>
-<t tx="leo.20181104235059.2"># W6
-
-    1.學習如何處理網誌error的問題，因為自己也有遇到這問題，所以比較清楚如何排除問題
-    
-    2.安裝新版p37
-    
-    3.說明如何升級最新的CMSimfly倉儲中的flaskapp.py
-    
-    4.用Onshape繪圖
-    
-    5.複習W1-W5的課程</t>
 <t tx="leo.20181104235100.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20181104235100.2"># W5
+<t tx="leo.20181104235100.2"># W14
 
-     1.使用OnShape繪圖，讓自己能夠學習不一樣的程式和學英文</t>
+   1.修改手足球零件尺寸圖
+   
+   [零件尺寸圖]
+
+   [零件尺寸圖]:https://cad.onshape.com/documents/0baaceb2b8b167a9382a63d0/w/1b9d759f8c055bc4386c1f78/e/d1c01e699f7b83c22c1a872f
+
+   
+   
+
+</t>
 <t tx="leo.20181104235102.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20181104235102.2"># W4
+<t tx="leo.20181104235102.2"># W13
 
-    1.學習管理期中作業倉儲網誌，Blog，投影片
+    1.將最初的手足球版本，繪製成零件尺寸圖
     
-    2.學習使用Onshape，簡單繪製圖形，熟悉操作方法</t>
+    2.使用pandoc製作報告
+    
+
+</t>
 <t tx="leo.20181104235103.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20181104235103.2"># W3
+<t tx="leo.20181104235103.2"># W12
 
-中秋節放假喔~~~
+   1.使用Pandoc製作組別報告
+   
+   2.和組員討論手足球模擬
 
-</t>
-<t tx="leo.20181104235105.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20181104235105.2"># W2
-
-    1.進到mde.tw &gt; i &gt;week2&gt;領取個人倉儲 (在mdecadp2018下的site-40623245)
-
-    2.在site-40623245的 settings &gt; Branches &gt; 將branches改為gh-pages
-
-    3.開始試著練習OnShape
-
-    4.學習如何維護網誌和投影片
 
 </t>
 </tnodes>
