@@ -24,31 +24,38 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>課程進度</vh>
-<v t="leo.20181104235046.1" a="E"><vh>Week10</vh>
-<v t="leo.20181104235046.2"><vh>投影片內容</vh></v>
+<v t="leo.20181105080417.1" a="E"><vh>week10投影片</vh>
+<v t="leo.20181105080417.2"><vh>week10投影片內容</vh></v>
 </v>
-<v t="leo.20181104235103.1" a="E"><vh>Week12</vh>
-<v t="leo.20181104235103.2"><vh>投影片內容</vh></v>
+<v t="leo.20181105080406.1" a="E"><vh>week12投影片</vh>
+<v t="leo.20181105080406.2"><vh>week12投影片內容</vh></v>
 </v>
-<v t="leo.20181104235102.1" a="E"><vh>Week13</vh>
-<v t="leo.20181104235102.2"><vh>投影片內容</vh></v>
+<v t="leo.20181105080333.1" a="E"><vh>week13投影片</vh>
+<v t="leo.20181105080333.2"><vh>week13投影片內容</vh></v>
 </v>
-<v t="leo.20181104235100.1" a="E"><vh>Week14</vh>
-<v t="leo.20181104235100.2"><vh>投影片內容</vh></v>
+<v t="leo.20181105080539.1" a="E"><vh>week14投影片</vh>
+<v t="leo.20181105080539.2"><vh>week14投影片內容</vh></v>
 </v>
-<v t="leo.20181104235057.1" a="E"><vh>Week16</vh>
-<v t="leo.20181104235057.2"><vh>投影片內容</vh></v>
+<v t="leo.20181105080543.1" a="E"><vh>week15投影片</vh>
+<v t="leo.20181105080543.2"><vh>week15投影片內容</vh></v>
 </v>
+<v t="leo.20181105080547.1" a="E"><vh>week16投影片</vh>
+<v t="leo.20181105080547.2"><vh>week16投影片內容</vh></v>
+</v>
+<v t="leo.20181105080551.1" a="E"><vh>week17投影片</vh>
+<v t="leo.20181105080551.2"><vh>week17投影片內容</vh></v>
+</v>
+<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
-<v t="leo.20180827201621.14"><vh>導入數學符號與方程式</vh>
+<v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20180827201621.16"><vh>導入縮排程式碼</vh>
+<v t="leo.20180827201621.16" a="E"><vh>導入縮排程式碼</vh>
 <v t="leo.20180827201621.17"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20180827201621.18"><vh>導入影片</vh>
+<v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
@@ -138,15 +145,17 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2019 40623245 協同產品設計實習
-
+<t tx="leo.20180827201621.10">## 2019 協同產品設計實習 
+## 40623201個人簡報
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [40623201](https://mdecadp2018.github.io/site-40623201/blog)
 &lt;/small&gt;
 
-[個人網站](./../site-40623245/content/index.html)
+[個人倉儲](https://github.com/mdecadp2018/site-40623201)
+
+[分組網站](https://mdecadp2018.github.io/site-40623201/content/index.html)
 
 
 </t>
@@ -155,6 +164,18 @@ Created by [KMOLab](http://lab.kmol.info/)
 @others
     &lt;/script&gt;
 &lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180827201621.12"># 投影片快捷鍵
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
 
 </t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
@@ -168,6 +189,10 @@ Created by [KMOLab](http://lab.kmol.info/)
 @others
     &lt;/script&gt;
 &lt;/section&gt;
+
+
+
+						
 </t>
 <t tx="leo.20180827201621.15"># 數學符號與方程式
 
@@ -175,7 +200,6 @@ Inline math equations go in like so: $\omega = d\phi / dt$. Display
 math should get its own line and be put in in double-dollarsigns:
 
 $$I = \int \rho R^{2} dV$$
-
 </t>
 <t tx="leo.20180827201621.16">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -184,6 +208,9 @@ $$I = \int \rho R^{2} dV$$
     &lt;/script&gt;
 &lt;/section&gt;
 
+
+
+						
 </t>
 <t tx="leo.20180827201621.17">## 利用 Markdown 寫投影片
 以下利用 Markdown 格式展示 Python 程式碼:
@@ -212,20 +239,21 @@ def domake():
 make = threading.Thread(target=domake)
 make.start()
 ```
-
 </t>
 <t tx="leo.20180827201621.18">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
+
+
+						
 </t>
 <t tx="leo.20180827201621.19">## 使用 iframe 導入影片
 
 ### 導入影片 template
 
 &lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
 </t>
 <t tx="leo.20180827201621.2"></t>
 <t tx="leo.20180827201621.3">@language xml
@@ -321,92 +349,130 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181104235046.1">@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181104235046.2"># W10-11
-
-   1.依照實習任務三使用onshape繪製機械手臂
- 
-   2.個人網站更新
- 
-   3.組員分配
- 
-   [實習任務三]
-
-   [實習任務三]:https://cad.onshape.com/documents/95560fc8cd75cfab6c51a4de/w/fd956389631fc665587261b1/e/6b5cdabcf3a4f2874ab346e3
-</t>
-<t tx="leo.20181104235057.1">&lt;section data-markdown&gt;
+<t tx="leo.20181105080333.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 
+
+						
 </t>
-<t tx="leo.20181104235057.2"># W15-16
+<t tx="leo.20181105080333.2"># Week13
 
-   1.將最後版本的手足球，重新繪製成零件尺寸圖
-   
-   2.將個人網站更新完畢
-    
-   [零件尺寸圖]
+* 整理 [pull request 步驟](https://mdecadp2018.github.io/site-40623201/content/Pull%20request.html)
 
-   [零件尺寸圖]:https://cad.onshape.com/documents/5653844cc215c64eac3c06cf/w/5ad65bf78937d05897ff41fb/e/d8734d77d2aa524b961cc1dc
-    
-   [個人網站]
-
-   [個人網站]:https://mdecadp2018.github.io/site-40623245/content/index.html
-
-
-    
+* 使用Pandoc製作專案報告書
 
 </t>
-<t tx="leo.20181104235100.1">&lt;section data-markdown&gt;
+<t tx="leo.20181105080406.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
+
+
+						
 </t>
-<t tx="leo.20181104235100.2"># W14
+<t tx="leo.20181105080406.2"># Week12
 
-   1.修改第二版本手足球零件尺寸圖
-   
-   [零件尺寸圖]
+* 整理 [pull request 步驟](https://mdecadp2018.github.io/site-40623201/content/Pull%20request.html)
 
-   [零件尺寸圖]:https://cad.onshape.com/documents/0baaceb2b8b167a9382a63d0/w/1b9d759f8c055bc4386c1f78/e/d1c01e699f7b83c22c1a872f
 
-   
-   
 
 </t>
-<t tx="leo.20181104235102.1">&lt;section data-markdown&gt;
+<t tx="leo.20181105080417.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
-</t>
-<t tx="leo.20181104235102.2"># W13
 
-   1.將最初的手足球版本，繪製成零件尺寸圖
-    
-   2.使用LEO製作報告
-    
+
+						
+</t>
+<t tx="leo.20181105080417.2"># Week10-Week11
+
+* Onshape 繪製實習任務三
+* 進行組員分工
+* 修改網站內容
+
+
 
 </t>
-<t tx="leo.20181104235103.1">&lt;section data-markdown&gt;
+<t tx="leo.20181105080539.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
+
+
+						
 </t>
-<t tx="leo.20181104235103.2"># W12
+<t tx="leo.20181105080539.2"># Week14
 
-   1.使用LEO製作組別報告
-   
-   2.和組員討論手足球模擬
+* 使用Pandoc製作期末專案報告書並錄製影片
 
+[Pandoc製作專案報告書影片](https://www.youtube.com/watch?v=vS8FvkiCBTI)
+
+
+</t>
+<t tx="leo.20181105080543.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181105080543.2"># Week15
+
+* 使用Pandoc製作專案報告書
+
+* 整理個人倉儲及網站
+
+* 錄製pull request操作步驟
+
+[pull request操作步驟1影片](https://youtu.be/xMYS-5a6ZYA)
+
+[pull request操作步驟2影片](https://youtu.be/wD2BJAw-SIM)
+
+</t>
+<t tx="leo.20181105080547.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181105080547.2"># Week16
+
+* 使用Pandoc製作專案報告書
+* 整理執行規劃
+* 進行送球機構模擬
+
+[report.pdf](https://github.com/mdecadp2018/site-40623201/blob/gh-pages/report/pdf/report.pdf)
+
+[送球機構操作步驟1影片](https://youtu.be/3Xnt8M5fBpY)
+
+[送球機構操作步驟2影片](https://youtu.be/-dJ1Z-EaiFA)
+
+
+</t>
+<t tx="leo.20181105080551.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181105080551.2"># Week17 
+
+* 期末個人專案口頭簡報
 
 </t>
 </tnodes>
